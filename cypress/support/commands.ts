@@ -35,3 +35,6 @@
 //     }
 //   }
 // }
+
+import '@bahmutov/cy-api';
+
